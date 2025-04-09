@@ -1,17 +1,17 @@
 Algoritmo "EX_G"
-// Disciplina   : [Lógica de Programação com Visualg]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com Visualg]
 // Professor   : Jailson Costa dos Santos
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 08/04/2025
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    contador,fatorial,soma,num:inteiro
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    contador <- 1
    num <- 1
-   Escreval("Algoritmo de soma dos fatoriais de 1 a 15: ")
+   Escreval("Algoritmo de soma dos fatoriais de 1 a 10: ")
    repita
       fatorial <- 1
       contador <- 1
@@ -23,7 +23,7 @@ Inicio
       num <- num + 2
    ate num > 9
 
-   escreval("Somatório dos fatoriais: ", soma)
+   escreval("SomatÃ³rio dos fatoriais: ", soma)
 
 
 
